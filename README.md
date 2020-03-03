@@ -1,6 +1,6 @@
 # Covid19Temperature
 
-This script takes the latest confirmed cases data from John Hopkins and the next 7 days weather high forecast, and plots 
+This script takes the latest confirmed cases data from John Hopkins and the next 7 days weather high forecast from meteoguru.com, and plots 
 a scatterplot along with a regression line and the r2 value in order to find the relationship between infection rate and
 temperature. As more data is collected the r2 should increase.   
 
