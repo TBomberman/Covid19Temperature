@@ -17,3 +17,5 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 Sample Output
 
 ![Sample Image Output](/Output/2020-03-03_0-40-55.jpg)
+
+![Sample Image Output Latitude](/Output/latitude.jpg)
